@@ -1,4 +1,19 @@
+# Finna-kuvahaku
+
+Basic app that fetches pictures from the [Finna API](https://www.kiwi.fi/pages/viewpage.action?pageId=53839221).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Running Locally
+
+Make sure you have [Node.js](http://nodejs.org/) installed.
+
+```sh
+git clone https://github.com/miikko/Finna-kuvahaku.git
+cd Finna-kuvahaku
+npm install
+npm start
+```
 
 ## Available Scripts
 
